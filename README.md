@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=roymachinelearning&theme=swift&row=2&column=3"/></div>
+<img src="https://github-profile-trophy.vercel.app/?username=rishabhjha1&theme=swift&row=2&column=3"/></div>
 
  <div align="center">
 

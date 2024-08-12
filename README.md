@@ -1,9 +1,9 @@
 ## Hi there 👋
-<div> <a href="https://www.linkedin.com/in/ashishguptamma/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/rishabhjhatheaiguy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<a href="https://www.kaggle.com/roydatascience" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+<a href="https://www.kaggle.com/rishabhlambton" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
 
-<a href = "mailto:ashish.mmaqueens@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:rjhha1097@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
 
@@ -37,7 +37,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=roymachinelearning&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=rishabhjha1&label=Profile%20views&color=0e75b6&style=flat"/>
 
 </div>
 

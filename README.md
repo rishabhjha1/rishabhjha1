@@ -15,11 +15,11 @@
 
  <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=roymachinelearning&theme=swift" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabhjha1&theme=swift" height="180em" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roymachinelearning&theme=swift" height="180em"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishabhjha1&theme=swift" height="180em"  />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roymachinelearning&theme=swift" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhjha1&theme=swift" height="180em" />
 
 </div>
 
